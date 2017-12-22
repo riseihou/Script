@@ -1,4 +1,6 @@
 #!/bin/bash
+#OS:CENTOS
+
 SELFPATH=$(cd "$(dirname "$0")"; pwd)
 
 echo "Please enter a number!"
